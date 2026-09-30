@@ -1,0 +1,126 @@
+.root-pane {
+    -fx-font-family: "Segoe UI", "Arial";
+    -fx-background-color: linear-gradient(to bottom right, #f6f4fb, #eef2fb, #f8f7fc);
+}
+
+.top-bar {
+    -fx-background-color: rgba(255,255,255,0.85);
+    -fx-border-color: rgba(120,110,150,0.20);
+    -fx-border-width: 0 0 1 0;
+}
+
+.top-left-title {
+    -fx-text-fill: #4a4258;
+    -fx-font-size: 20px;
+}
+
+.brand-label {
+    -fx-text-fill: #4e4b5d;
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.chip {
+    -fx-background-color: linear-gradient(to right, #5e5076, #725f92);
+    -fx-background-radius: 24;
+    -fx-border-radius: 24;
+    -fx-border-color: rgba(255,255,255,0.35);
+}
+
+.chip .label {
+    -fx-text-fill: white;
+    -fx-font-size: 13px;
+}
+
+.chip-title {
+    -fx-text-fill: rgba(255,255,255,0.85);
+}
+
+.chip-value {
+    -fx-font-weight: bold;
+    -fx-text-fill: #dff4ff;
+}
+
+.song-scroll {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background: transparent;
+}
+
+.song-scroll > .viewport {
+    -fx-background-color: transparent;
+}
+
+.song-card {
+    -fx-cursor: hand;
+}
+
+.card-top-title {
+    -fx-text-fill: white;
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.stat-value {
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+.stat-mode {
+    -fx-text-fill: rgba(255,255,255,0.75);
+    -fx-font-size: 10px;
+    -fx-letter-spacing: 1px;
+}
+
+.card-main-title {
+    -fx-text-fill: rgba(255,255,255,0.92);
+    -fx-font-size: 18px;
+    -fx-font-weight: 500;
+    -fx-padding: 0 0 10 0;
+}
+
+.card-level {
+    -fx-text-fill: #ffffff;
+}
+
+.selected-glow {
+    -fx-background-color: linear-gradient(to bottom, rgba(255,255,255,0.08), rgba(255,255,255,0.14));
+    -fx-effect: dropshadow(gaussian, rgba(255,255,255,0.65), 22, 0.25, 0, 0);
+}
+
+.diamond-badge {
+    -fx-background-color: linear-gradient(to bottom right, #ffffff, #cfc8dc);
+    -fx-border-color: #8b839e;
+    -fx-border-width: 1.5px;
+}
+
+.diamond-inner {
+    -fx-background-color: linear-gradient(to bottom right, #c7bfd8, #7c7292);
+}
+
+.side-story {
+    -fx-background-color: linear-gradient(to right, #4b415d, #66567c);
+    -fx-text-fill: white;
+    -fx-padding: 8 18 8 18;
+    -fx-background-radius: 6;
+    -fx-font-size: 15px;
+    -fx-font-weight: 500;
+}
+
+.bottom-button {
+    -fx-background-color: linear-gradient(to right, #f6f6fb, #ececf5);
+    -fx-border-color: #c8c6d4;
+    -fx-border-radius: 18;
+    -fx-background-radius: 18;
+    -fx-padding: 10 20 10 20;
+    -fx-text-fill: #4e465b;
+    -fx-font-size: 15px;
+    -fx-font-weight: 600;
+}
+
+.bottom-button-purple {
+    -fx-background-color: linear-gradient(to right, #534269, #7a5fa4);
+    -fx-border-color: transparent;
+    -fx-text-fill: white;
+}

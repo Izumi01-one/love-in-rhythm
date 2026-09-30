@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cuti Cat",
+    "iconPath": "/img/icons/icon2.png"
+  },
+  {
+    "name": "Cinamon",
+    "iconPath": "/img/icons/icon1.png"
+  },
+  {
+    "name" : "Hello Kitty",
+    "iconPath" : "/img/icons/Hello_Kitty.png"
+  }
+]

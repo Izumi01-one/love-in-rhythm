@@ -1,0 +1,16 @@
+{
+  "backgrounds": [
+    {
+      "name": "Arial",
+      "path": "/img/background/background01.jpg"
+    },
+    {
+      "name": "SAO",
+      "path": "/img/background/background02.png"
+    },
+    {
+      "name": "Japan",
+      "path": "/img/background/japan.jpg"
+    }
+  ]
+}

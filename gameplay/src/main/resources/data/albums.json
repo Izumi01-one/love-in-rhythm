@@ -1,0 +1,387 @@
+[
+  {
+    "id": "j_pops",
+    "album": "J-Pops",
+    "coverPath": "/img/j_pops/coverJpops.jpg",
+    "songs": [
+      {
+        "id": "jp_song_01",
+        "title": "愛♡スクリ～ム！",
+        "artist": "AiScReam",
+        "imagePath": "/img/j_pops/AiScReam.png",
+        "videoPath": "/video/j_pops/AiScReam.mp4",
+        "easy": 1000,
+        "normal": 800,
+        "advance": 500,
+        "backup" : "1mnCSaeS-FNa82_oD4XQooqu-t4R4lY1n"
+      },
+      {
+        "id": "jp_song_02",
+        "title": "可愛くてごめん",
+        "artist": "HoneyWorks feat.ちゅーたん",
+        "imagePath": "/img/j_pops/Kawaikute Gomen.jpg",
+        "videoPath": "/video/j_pops/KawaiKute Gomen.mp4",
+        "easy": 900,
+        "normal": 600,
+        "advance": 350,
+        "backup" : "1MRsgHmkyIIcZ7BVAsCC4OeTkvONZNdp5"
+      },
+      {
+        "id": "jp_song_03",
+        "title": "たぶん",
+        "artist": "Ayase/YOASOBI",
+        "imagePath": "/img/j_pops/Yoasobi-Tabun.png",
+        "videoPath": "/video/j_pops/Tabun.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "1U1jPJOn5-LfvzvKvVjp-QY73w5i-p70E"
+      },
+      {
+        "id": "jp_song_04",
+        "title": "楽曲粛聖__-ロリ神レクイエム",
+        "artist": "しぐれうい",
+        "imagePath": "/img/j_pops/shukusei loli requiem.jpg",
+        "videoPath": "/video/j_pops/shukusei loli requiem.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "15mKTvwCkI6wyyrzgz51XQeWevlzUn0gp"
+      },
+      {
+        "id": "jp_song_05",
+        "title": "アイドル",
+        "artist": "Ayase/YOASOBI",
+        "imagePath": "/img/j_pops/Idol.png",
+        "videoPath": "/video/j_pops/Idol.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "1eqfQGQ5E342xjXPG-UKZvQQur1FyPZmN"
+      },
+      {
+        "id": "jp_song_06",
+        "title": "スパークル",
+        "artist": "RADWIMPS",
+        "imagePath": "/img/j_pops/Sparkle.png",
+        "videoPath": "/video/j_pops/Sparkle.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "1f7gI5v_OA_mpVA4UJIVfJEpzvPd-2oE7"
+      },
+      {
+        "id": "jp_song_07",
+        "title": "GRAND ESCAPE",
+        "artist": "RADWIMPS feat.Toko Miura",
+        "imagePath": "/img/j_pops/Grand Escape.png",
+        "videoPath": "/video/j_pops/Grand Escape.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "1WsYEL7FA87YpV3txvedlDhv91-jO4m78"
+      },
+      {
+        "id": "jp_song_08",
+        "title": "すずめ",
+        "artist": "RADWIMPS feat.十明",
+        "imagePath": "/img/j_pops/Suzume.png",
+        "videoPath": "/video/j_pops/Suzume.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "1lwiXEWQ0mtNxQQdR_YjI8hNGmx93ZLpa"
+      },
+      {
+        "id": "jp_song_09",
+        "title": "群青",
+        "artist": "Ayase/YOASOBI",
+        "imagePath": "/img/j_pops/Blue.png",
+        "videoPath": "/video/j_pops/Blue.mp4",
+        "easy": 800,
+        "normal": 600,
+        "advance": 300,
+        "backup" : "1qsPxgO3zB_11QeSYMLe32mlx1LDmAts-"
+      }
+    ]
+  },
+
+  {
+    "id": "k_pops",
+    "album": "K-Pops",
+    "coverPath": "/img/k_pops/coverKpops.jpg",
+    "songs": [
+      {
+        "id": "kp_song_01",
+        "title": "(뉴진스) 'SUPER SHY'",
+        "artist": "New Jeans",
+        "imagePath": "/img/k_pops/(뉴진스) 'Super Shy'.jpg",
+        "videoPath": "/video/k_pops/Super-Shy.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1swmdibcGwvaCFCh_FjP2ic8DA_WQT7Lg"
+      },
+      {
+        "id": "kp_song_02",
+        "title": "CUPID",
+        "artist": "FIFTY FIFTY (피프티피프티)",
+        "imagePath": "/img/k_pops/Cupid.jpg",
+        "videoPath": "/video/k_pops/Cupid.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1k8xeEAMsKE_jj1tpNGbclagvtpSEOf6q"
+      }
+    ]
+  },
+
+  {
+    "id": "v_pops",
+    "album": "V-Pops",
+    "coverPath": "/img/v_pops/coverVpops.jpg",
+    "songs": [
+      {
+        "id": "vp_song_01",
+        "title": "CÓ AI HẸN HÒ CÙNG EM CHƯA",
+        "artist": "Quân A.P",
+        "imagePath": "/img/v_pops/co_ai_hen_ho_cung_em_chua.jpg",
+        "videoPath": "/video/v_pops/co_ai_hen_ho_cung_em_chua.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1jcaXDjnoNfR6Sek2fXXPAXRCaoEFL9uF"
+      },
+      {
+        "id": "vp_song_02",
+        "title": "HẾT THƯƠNG CẠN NHỚ",
+        "artist": "Đức Phúc",
+        "imagePath": "/img/v_pops/het_thuong_can_nho.jpg",
+        "videoPath": "/video/v_pops/het_thuong_can_nho.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1KpDrewqwwlO6KifE90yYvzosW377sP8d"
+      },
+      {
+        "id": "vp_song_03",
+        "title": "YÊU MỘT NGƯỜI TỔN THƯƠNG",
+        "artist": "Nhật Phong",
+        "imagePath": "/img/v_pops/yeu_mot_nguoi_ton_thuong.jpg",
+        "videoPath": "/video/v_pops/yeu_mot_nguoi_ton_thuong.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1OtZGk-_m7YyV9ls4nErA7vYK0zXwCpyE"
+      },
+      {
+        "id": "vp_song_04",
+        "title": "AI LÀ NGƯỜI THƯƠNG EM",
+        "artist": "Quân A.P",
+        "imagePath": "/img/v_pops/ai_la_nguoi_thuong_em.jpg",
+        "videoPath": "/video/v_pops/ai_la_nguoi_thuong_em.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1N_8WwEsgVukoN8oAOg75i3LF_AJjE-Vh"
+      },
+      {
+        "id": "vp_song_05",
+        "title": "BÔNG HOA ĐẸP NHẤT",
+        "artist": "Quân A.P",
+        "imagePath": "/img/v_pops/bong_hoa_dep_nhat.jpg",
+        "videoPath": "/video/v_pops/bong_hoa_dep_nhat.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1eY0Gb9_EkkXUhfw0ShJCz5lW4BQ_jb0k"
+      },
+      {
+        "id": "vp_song_06",
+        "title": "THẤT TÌNH",
+        "artist": "Trịnh Đình Quang",
+        "imagePath": "/img/v_pops/that_tinh.jpg",
+        "videoPath": "/video/v_pops/that_tinh.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1P0hgd1XpMnZm98QDeFFmFITskEZ-J0J4"
+      }
+    ]
+  },
+
+  {
+    "id": "c_pops",
+    "album": "C-Pops",
+    "coverPath": "/img/c_pops/coverCpops.jpg",
+    "songs": [
+      {
+        "id": "cp_song_01",
+        "title": "錯位時空",
+        "artist": "艾辰",
+        "imagePath": "/img/c_pops/錯位時空.jpg",
+        "videoPath": "/video/c_pops/錯位時空.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1hedvnLd8y-rhIO_ieCvTf51zMI7cxfZx"
+      },
+      {
+        "id": "cp_song_02",
+        "title": "燕无歇",
+        "artist": "蒋雪儿",
+        "imagePath": "/img/c_pops/燕无歇.jpg",
+        "videoPath": "/video/c_pops/燕无歇.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1JI4_lQuVDP27cq9hNZ9YoQyoMi9mSeAZ"
+      },
+      {
+        "id": "cp_song_03",
+        "title": "大天蓬",
+        "artist": "李袁杰",
+        "imagePath": "/img/c_pops/大天蓬.jpg",
+        "videoPath": "/video/c_pops/大天蓬.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "14lLMXbutffS6lT0qfmMSMzWGD5_EOKW7"
+      },
+      {
+        "id": "cp_song_04",
+        "title": "飞鸟和蝉",
+        "artist": "任然",
+        "imagePath": "/img/c_pops/飞鸟和蝉.jpg",
+        "videoPath": "/video/c_pops/飞鸟和蝉.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1t0sS8_wciYGlVQYxMjHxUAhotjg0h3_I"
+      },
+      {
+        "id": "cp_song_05",
+        "title": "後繼者",
+        "artist": "任然",
+        "imagePath": "/img/c_pops/後繼者.jpg",
+        "videoPath": "/video/c_pops/後繼者.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1neMKCdMVxYuJWy5H2opqoradNIPXFxPA"
+      },
+      {
+        "id": "cp_song_06",
+        "title": "丢了你",
+        "artist": "井胧",
+        "imagePath": "/img/c_pops/丢了你.jpg",
+        "videoPath": "/video/c_pops/丢了你.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "112xng27t8Is3PnKEipO90ztp6EGBMCtu"
+      }
+    ]
+  },
+
+  {
+    "id": "us_uk",
+    "album": "US-UK",
+    "coverPath": "/img/us_uk/coverUsuk.jpg",
+    "songs": [
+      {
+        "id": "usuk_song_01",
+        "title": "A THOUSAND YEARS",
+        "artist": "Christina Perri",
+        "imagePath": "/img/us_uk/a_thousand_years.jpg",
+        "videoPath": "/video/us_uk/a_thousand_years.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1UCryWxBhUc90HvytKxJWd-R6uDP87cOz"
+      },
+      {
+        "id": "usuk_song_02",
+        "title": "LOVE ME LIKE YOU DO",
+        "artist": "Ellie Goulding",
+        "imagePath": "/img/us_uk/love_me_like_you_do.jpg",
+        "videoPath": "/video/us_uk/love_me_like_you_do.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1hk1PnOv84Lr90NboRmJkQq851BRMBT63"
+      },
+      {
+        "id": "usuk_song_03",
+        "title": "BELIEVER",
+        "artist": "Imagine Dragons",
+        "imagePath": "/img/us_uk/believer.jpg",
+        "videoPath": "/video/us_uk/believer.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1wPXLo0uGBgkAoCJLnZqJsoqqSTOV_6Ig"
+      },
+      {
+        "id": "usuk_song_04",
+        "title": "SUMMERTIME SADNESS",
+        "artist": "Lana Del Rey",
+        "imagePath": "/img/us_uk/summmertime_sadness.jpg",
+        "videoPath": "/video/us_uk/summmertime_sadness.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1Wlgu-VN247HkNPgsTTe382zl87bamibf"
+      },
+      {
+        "id": "usuk_song_05",
+        "title": "7 YEARS",
+        "artist": "Lukas Graham",
+        "imagePath": "/img/us_uk/7_years.jpg",
+        "videoPath": "/video/us_uk/7_years.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1IG8hE9d681VLIUXsrUE4KvxX18Q0mNiC"
+      },
+      {
+        "id": "usuk_song_06",
+        "title": "COUNTING STARS",
+        "artist": "OneRepublic",
+        "imagePath": "/img/us_uk/counting_stars.jpg",
+        "videoPath": "/video/us_uk/counting_stars.mp4",
+        "easy": 900,
+        "normal": 750,
+        "advance": 400,
+        "backup" : "1xQkxFwFgfQTnwcQ6IhPDPGrCOG5m56uQ"
+      }
+    ]
+  },
+
+  {
+    "id": "v_pops",
+    "album": "Coming soon",
+    "coverPath": "/img/coming_soon.jpg",
+    "songs": [
+
+    ]
+  },
+
+  {
+    "id": "v_pops",
+    "album": "Coming soon",
+    "coverPath": "/img/coming_soon.jpg",
+    "songs": [
+
+    ]
+  },
+
+  {
+    "id": "v_pops",
+    "album": "Coming soon",
+    "coverPath": "/img/coming_soon.jpg",
+    "songs": [
+
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+.setting-combo {
+    -fx-background-color: rgba(255, 255, 255, 0.82);
+    -fx-background-radius: 22;
+    -fx-border-color: transparent;
+    -fx-padding: 4 12 4 12;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-cursor: none;
+}
+
+.setting-combo .arrow-button {
+    -fx-background-color: transparent;
+    -fx-cursor: none;
+}
+
+.setting-combo .arrow {
+    -fx-background-color: #555555;
+}
+
+.combo-box-popup .list-view {
+    -fx-background-color: rgba(255, 255, 255, 0.92);
+    -fx-background-radius: 12;
+    -fx-border-color: rgba(255, 255, 255, 0.75);
+    -fx-border-radius: 12;
+    -fx-padding: 4;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.35), 14, 0.25, 0, 4);
+    -fx-cursor: none;
+}
+
+.combo-box-popup .list-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #222222;
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+    -fx-padding: 8 12 8 12;
+    -fx-cursor: none;
+}
+
+.combo-box-popup .list-cell:hover {
+    -fx-background-color: rgba(255, 211, 78, 0.65);
+    -fx-background-radius: 8;
+    -fx-text-fill: #3a2b00;
+}
+
+.combo-box-popup .list-cell:selected {
+    -fx-background-color: #ffd34e;
+    -fx-background-radius: 8;
+    -fx-text-fill: #3a2b00;
+}
